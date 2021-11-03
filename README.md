@@ -18,7 +18,7 @@ in perpetuity.
 This is a code behind javascript file for TcHmi which extends the base functionality.  In time this will evolve in to a Nuget Package. 
 
 ## Documentation
-The documentation for this project can be found [here](https://benhar-dev.github.io/template-github-with-docs/). 
+The documentation for this project can be found [here](https://benhar-dev.github.io/tchmi-exjs/). 
 
 ## Versions
 * TcXaeShell 3.1.4024.22
