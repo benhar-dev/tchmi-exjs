@@ -1,6 +1,10 @@
 # exjs Documentation
 >Extending what is possible with TcHmi
 
+!> **exjs** is not a Beckhoff product and must not be treated as such.
+!> **exjs** uses functionallity not typically exposed in TcHmi and as such may break upon the release of new versions. 
+!> **exjs** is released under the MIT License.
+
 ## Opening Statement
 The code behind javascript file has been created to enhance the base functionality of TcHmi.  In time this will turn in to a Nuget package.  
 
