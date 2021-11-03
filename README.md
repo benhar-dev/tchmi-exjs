@@ -14,6 +14,14 @@ other than the author(s) and, since we are critically thinking human beings, the
 always subject to change, revision, and rethinking at any time. Please do not hold us to them
 in perpetuity.
 
+## WARNING
+
+* **exjs** is not a Beckhoff product and must not be treated as such.
+
+* **exjs** uses functionality not typically exposed in TcHmi and as such may break upon the release of new versions. 
+
+* **exjs** is released under the MIT License.
+
 ## Overview 
 This is a code behind javascript file for TcHmi which extends the base functionality.  In time this will evolve in to a Nuget Package. 
 
